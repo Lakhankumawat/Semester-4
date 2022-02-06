@@ -18,6 +18,7 @@
 + Exams Questions With Solutions
 + Quizzes with solutions
 # From B.Tech CSE 3rd Year 5th Sem NITP
+- Some Quzzes are uneditable after submisson so unable to add them to repo
 ```
 
 <hr>
